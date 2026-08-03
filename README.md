@@ -1,4 +1,4 @@
-# ELO — Central de Atendimento
+# Elo — Central de Atendimento
 
 Projeto full stack de Help Desk para portfólio de QA Junior. A aplicação simula um sistema de atendimento com regras de negócio reais, autenticação por perfil e fluxo de suporte completo.
 
