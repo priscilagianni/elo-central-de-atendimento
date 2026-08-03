@@ -1,0 +1,11 @@
+{
+  "name": "elo-central-atendimento",
+  "private": true,
+  "workspaces": ["backend", "frontend"],
+  "scripts": {
+    "dev": "concurrently --raw -c blue,green \"cd backend && node --watch src/server.js\" \"cd frontend && vite --host localhost --strictPort\"",
+    "test": "npm run test --workspace backend",
+    "test:e2e": "cypress run --config-file cypress.config.js"
+  },
+  "devDependencies": { "concurrently": "^9.1.2", "cypress": "^14.1.0" }
+}
