@@ -44,8 +44,8 @@ npm run dev
 
 | Perfil | E-mail | Senha |
 |---|---|---|
-| Usuário | `ana@elo.com` | `123456` |
-| Administrador | `admin@elo.com` | `123456` |
+| Usuário | `ana@elo.com` | `N12345` |
+| Administrador | `admin@elo.com` | `N12345` |
 
 > O banco é em memória: todos os dados criados durante o uso são perdidos ao reiniciar a API. Isso é intencional, para manter o projeto simples de rodar e resetar.
 
