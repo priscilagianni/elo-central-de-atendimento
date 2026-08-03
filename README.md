@@ -4,7 +4,7 @@ Projeto full stack de Help Desk para portfólio de QA Junior. A aplicação simu
 
 ## Visão geral
 
-O ELO centraliza a abertura, acompanhamento e resolução de chamados de suporte. O sistema foi desenvolvido para demonstrar controle de acesso, autorização e validação de regras de negócio em uma solução de Help Desk, com backend em Express e frontend em React.
+O Elo centraliza a abertura, acompanhamento e resolução de chamados de suporte. O sistema foi desenvolvido para demonstrar controle de acesso, autorização e validação de regras de negócio em uma solução de Help Desk, com backend em Express e frontend em React.
 
 ## Funcionalidades principais
 
